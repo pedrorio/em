@@ -18,6 +18,8 @@ Status: Draft | Proposal | In Review | Accepted | Rejected
 
 ## Non-Requirements
 
+## Prior Art
+
 ## Detailed design
 
 ## How we teach this
