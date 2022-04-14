@@ -1,0 +1,25 @@
+# TODO
+
+- [X] Engineering
+	- [X] Development
+		- [X] ARD
+		- [X] FRD
+	- [X] Operations
+		- [X] incident
+- [ ] Product
+	- [ ] MRD
+	- [ ] PRD
+- [ ] People
+	- [ ] Team
+		- [X] 1_1
+		- [X] jtbd
+		- [X] read.me
+		- [ ] performance_review
+	- [ ] Organization
+		- [ ] scaling
+		- [ ] topologies
+		- [ ] roadmap
+- [ ] Project
+	- [X] standups
+	- [ ] kickoffs
+	- [ ] postmortems

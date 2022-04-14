@@ -1,29 +1,4 @@
-# Name, Title
+# EM Documents
 
-## Introduction
-
-### Vision
-
-### Values
-
-## About me
-
-### Academics
-
-### Professional
-
-## Environment
-> Ideal conditions to work in? When do you do your best work? 
-
-## Communication
-> Best ways to communicate with you. Urgent vs non urgent, slack vs email, multiple vs once a day, video
-
-## Feedback
-> How and when do you like to receive feedback. 
-
-## Support
-
-> Share how people can help you and how you can help other people. Particular strenghts and weaknesses.
-
-## Favourites
-> Share your favourite quotes, books, podcasts, blogs, or anything that can give people a better sense of your personal interests.
+A set of documents I have used as a CTO, EM and TL.
+Some of them have been published here, some are still being reviewed before publishing.
