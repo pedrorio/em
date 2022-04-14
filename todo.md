@@ -10,16 +10,15 @@
 	- [ ] MRD
 	- [ ] PRD
 - [ ] People
-	- [ ] Team
-		- [X] 1_1
-		- [X] jtbd
-		- [X] read.me
-		- [ ] performance_review
-	- [ ] Organization
-		- [ ] scaling
-		- [ ] topologies
-		- [ ] roadmap
+	- [X] 1_1
+	- [X] jtbd
+	- [X] read.me
+	- [ ] performance_review
 - [ ] Project
 	- [X] standups
 	- [ ] kickoffs
 	- [ ] postmortems
+- [ ] Organization
+	- [ ] scaling
+	- [ ] topologies
+	- [ ] roadmap
