@@ -5,7 +5,7 @@
 ## Market 
 ### Requirements
 1. Market research
-2. Producr research
+2. Product research
 3. Team roaster
 4. Team scopes
 5. ADR (system documentation)
