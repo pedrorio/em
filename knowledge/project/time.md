@@ -8,15 +8,15 @@
 
 # Expose time theft to optimize workflow
 
-1. Make work visible (value vs visibility; feature, architecture, bug, tech debt; only one person knows how to do it, work impacts other teams, work is composed of very small taks; too many interruptions, conflicting priorities)
+1. Make work visible (value vs visibility; feature, architecture, bug, tech debt; only one person knows how to do it, work impacts other teams, work is composed of very small tasks; too many interruptions, conflicting priorities)
 2. Ambush the ringleader (Use kanban; lanes: silver bullet,team work, business requests, unplanned work, maintenance; columns: next, study, build/fix, feedback/cycling/done, deliver)
 3. Expose dependencies (dependencies matrix)
-4. Commiting the perfect crime - unplanned work (ratio of unplanned to total work, reserve capacity, office hours)
-5. Prioritize, prioritize, prioritize (CoD: missed revenue (protection, generation), extra costs (staff, operational maintenace), other CoD from dependencies)
-6. Preventing negligence (attention, killm move to backlog; aging report)
+4. Committing the perfect crime - unplanned work (ratio of unplanned to total work, reserve capacity, office hours)
+5. Prioritize, prioritize, prioritize (CoD: missed revenue (protection, generation), extra costs (staff, operational maintenance), other CoD from dependencies)
+6. Preventing negligence (attention, kill them, move to backlog; aging report)
 7. Useful board designs (examples)
 
-# Metrics, feedback and circunstances
+# Metrics, feedback and circumstances
 
 1. Metrics or money (flow time, wip, capacity, queue, flow efficiency)
 2. Measure time theft (partitioned by cause)

@@ -29,6 +29,6 @@
 ## Communities
 > Guild events
 
-## Anouncements
+## Announcements
 
 ## Discussion

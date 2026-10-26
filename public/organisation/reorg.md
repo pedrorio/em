@@ -17,7 +17,7 @@
 - Internal transfers
 - External ready
 
-## Commiting
+## Committing
 - Net positive
 - Minimally durable (6 months)
 - Design problems

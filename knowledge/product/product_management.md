@@ -4,7 +4,7 @@
 - Benchmarking
 - Competitive advantages
 - Competitive moats
-- Compunding leverage
+- Compounding leverage
 
 # Problem selection
 - Surviving the current round (revenue, adoption)

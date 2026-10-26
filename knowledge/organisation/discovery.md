@@ -6,7 +6,7 @@
 ### Requirements
 1. Market research
 2. Product research
-3. Team roaster
+3. Team roster
 4. Team scopes
 5. ADR (system documentation)
 

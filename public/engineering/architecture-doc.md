@@ -1,4 +1,6 @@
-# Title
+# Architecture document
+
+C4 / arc42.
 
 | **Owner**              |                                                                     |
 |:-----------------------|---------------------------------------------------------------------|
@@ -7,7 +9,13 @@
 | **Status**             | Draft &#124; Proposal &#124; Review &#124; Accepted &#124; Rejected |
 
 ## Context
-![Context Diagram](/context.png)
+
+```mermaid
+flowchart LR
+  person["[person] Placeholder person"] --> system["[software system] Placeholder system"]
+  system --> external["[external system] Placeholder external system"]
+```
+
 > a system context diagram [1] plus some narrative text to "set the scene"
 
 ## Functional overview
@@ -23,8 +31,21 @@
 > a list of development and architecture principles (coding conventions, separation of concerns, patterns)
 
 # Software architecture
-![Container Diagram](/container.png)
-![Component Diagram](/component.png)
+
+```mermaid
+flowchart LR
+  person["[person] Placeholder person"] --> web["[container] Placeholder web app"]
+  web --> api["[container] Placeholder API"]
+  api --> db["[container] Placeholder database"]
+```
+
+```mermaid
+flowchart LR
+  api["[container] Placeholder API"] --> componentA["[component] Placeholder component A"]
+  api --> componentB["[component] Placeholder component B"]
+  componentA --> componentC["[component] Placeholder component C"]
+```
+
 > static structure (containers [2] and components [3]), dynamic runtime
 
 # Code
@@ -37,7 +58,7 @@
 > description of the available infrastructure to run the system
 
 # Deployment
-> maping the software to the infrastructure
+> mapping the software to the infrastructure
 
 # Development environment
 > how a new developer gets started

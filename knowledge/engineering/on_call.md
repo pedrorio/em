@@ -1,7 +1,7 @@
 # On Call
 
 ## Normality
-1. Prepare an on call roaster
+1. Prepare an on call roster
 2. Set expectations to incident managers
 3. Set expectations to engineers on call
 4. Ensure adequate permissions for engineers on call

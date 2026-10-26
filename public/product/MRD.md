@@ -23,7 +23,7 @@
 > Understanding all the current players in the market can help differentiate the product from the competition.
 
 ## High-level capabilities
-> Product’s features and how they aimt to help users solve their problems. 
+> Product’s features and how they aim to help users solve their problems.
 > Should be high-level - do not create a detailed explanation of the features.
 > The goal is to help teams align internally when deciding what to build.
 
