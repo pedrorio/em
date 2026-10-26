@@ -39,6 +39,6 @@ A set of documents I have used as a CTO, EM and TL.
 - [Retrospective](public/project/retro.md)
 - [Standups](public/project/standups.md)
 
-[CC BY 4.0](LICENSE). Copyright Pedro Araujo.
+Copyright Pedro Araujo. All rights reserved.
 
 [knowledge/README.md](knowledge/README.md)

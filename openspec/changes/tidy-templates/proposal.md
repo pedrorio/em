@@ -11,5 +11,5 @@ The repo read as unfinished: the README pointed at a stub todo.
 - Remove `public/todo.md`.
 - Move the architecture notes to `architecture-doc.md`.
 - Replace the missing architecture images with Mermaid placeholders.
-- Fix spelling. Add CC BY 4.0 and `knowledge/README.md`.
+- Fix spelling. Add `knowledge/README.md`.
 - Check Markdown and links on pull requests.
