@@ -4,7 +4,6 @@ A set of documents I have used as a CTO, EM and TL.
 
 ## Engineering
 
-- [adr.md](public/engineering/adr.md)
 - [architecture-doc.md](public/engineering/architecture-doc.md)
 - [on_call.md](public/engineering/on_call.md)
 - [rfc.md](public/engineering/rfc.md)
