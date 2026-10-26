@@ -1,0 +1,17 @@
+schema: spec-driven
+
+context: |
+  Markdown-only engineering manager templates. No application code.
+  Public templates: public/engineering, public/organisation, public/people, public/product, public/project.
+  knowledge/ holds internal notes. examples/ is for filled-in examples written by Pedro.
+  British spelling stays (organisation). Placeholders are the line TODO(Pedro):.
+  Do not invent template guidance.
+  Architecture description: public/engineering/architecture-doc.md.
+  Architecture decision record: public/engineering/adr.md (Michael Nygard).
+  Licence: CC BY 4.0, copyright Pedro Araujo.
+
+rules:
+  proposal:
+    - State Status as Implemented or Proposed.
+    - Describe the file change. Do not write opinions in the repository owner's voice.
+    - Documentation-only changes set skip_specs: true and list no capabilities.
