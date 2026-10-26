@@ -1,5 +1,29 @@
 # Name, Title
 
+## Purpose
+
+TODO(Pedro):
+
+## When to use
+
+TODO(Pedro):
+
+## Inputs
+
+TODO(Pedro):
+
+## Output
+
+TODO(Pedro):
+
+## Common pitfalls
+
+TODO(Pedro):
+
+## Sources
+
+TODO(Pedro):
+
 ## Introduction
 
 ### Vision
@@ -25,7 +49,7 @@
 
 ## Support
 > Share how people can help you and how you can help other people.
-> Particular strenghts and weaknesses.
+> Particular strengths and weaknesses.
 
 ## Favourites
 > Share your favourite quotes, books, podcasts or blogs.

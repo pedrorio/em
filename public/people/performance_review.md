@@ -1,5 +1,29 @@
 # Performance Review
 
+## Purpose
+
+TODO(Pedro):
+
+## When to use
+
+TODO(Pedro):
+
+## Inputs
+
+TODO(Pedro):
+
+## Output
+
+TODO(Pedro):
+
+## Common pitfalls
+
+TODO(Pedro):
+
+## Sources
+
+TODO(Pedro):
+
 ## Gap analysis
 | **Track**                  | ...dimension                                                                                                            |
 |:---------------------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -11,4 +35,4 @@
 | **manager reported**        | evaluation           |
 | **perception gap**          | alignment            |
 
-> https://newsletter.pragmaticengineer.com/p/performance-calibrations
+> <https://newsletter.pragmaticengineer.com/p/performance-calibrations>

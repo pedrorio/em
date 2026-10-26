@@ -1,4 +1,29 @@
 # Career Ladder
+
+## Purpose
+
+TODO(Pedro):
+
+## When to use
+
+TODO(Pedro):
+
+## Inputs
+
+TODO(Pedro):
+
+## Output
+
+TODO(Pedro):
+
+## Common pitfalls
+
+TODO(Pedro):
+
+## Sources
+
+TODO(Pedro):
+
 ## Levels of influence
 - Self
 - Project
@@ -27,7 +52,7 @@
 - Management
 
 > ### Examples
->>  Ian Nowland
+>> Ian Nowland
 >> - Engineering
 >> - Execution
 >> - Operations
@@ -45,7 +70,6 @@
 >> - Communication & Leadership
 >>
 >> [2]: https://dresscode.renttherunway.com/blog/ladder
-
 
 ## Example
 

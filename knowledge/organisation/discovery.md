@@ -6,7 +6,7 @@
 ### Requirements
 1. Market research
 2. Product research
-3. Team roaster
+3. Team roster
 4. Team scopes
 5. ADR (system documentation)
 
@@ -15,7 +15,6 @@ MRD approved by a Senior PM for a new product
 > refers to existing market discovery requirements or change plan
 1. reviewed by Senior Leadership, Senior Stakeholders and Senior EM
 2. inform PM's and EM's in dependencies
-
 
 ## Product
 ### Requirements

@@ -1,5 +1,29 @@
 # Reorg
 
+## Purpose
+
+TODO(Pedro):
+
+## When to use
+
+TODO(Pedro):
+
+## Inputs
+
+TODO(Pedro):
+
+## Output
+
+TODO(Pedro):
+
+## Common pitfalls
+
+TODO(Pedro):
+
+## Sources
+
+TODO(Pedro):
+
 ## Project head count
 ## Manager to engineer ratio
 - 3-5 if hands on
@@ -17,7 +41,7 @@
 - Internal transfers
 - External ready
 
-## Commiting
+## Committing
 - Net positive
 - Minimally durable (6 months)
 - Design problems
