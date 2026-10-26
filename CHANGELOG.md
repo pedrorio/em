@@ -2,7 +2,7 @@
 
 ## 2026-10-26
 
-First entry.
+First entry: [pull request 1](https://github.com/pedrorio/em/pull/1).
 
 - `readme.md` indexes every template under `public/`, grouped by area.
 - Removed `public/todo.md` and its README link.
