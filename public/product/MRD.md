@@ -1,29 +1,5 @@
 # MRD
 
-## Purpose
-
-TODO(Pedro):
-
-## When to use
-
-TODO(Pedro):
-
-## Inputs
-
-TODO(Pedro):
-
-## Output
-
-TODO(Pedro):
-
-## Common pitfalls
-
-TODO(Pedro):
-
-## Sources
-
-TODO(Pedro):
-
 ## Executive summary
 > Consider the customer’s most obvious short-term needs as well as any issues they might face in the immediate future. 
 > Succinctly define the assumptions, ideas, and customer needs.
@@ -35,6 +11,7 @@ TODO(Pedro):
 ## Target market
 > Describe the market and industry data as it relates to the product.
 > Include market category, market size, key user segments, personas, competitors, etc.
+
 
 ## Personas
 > Define in detail the personas who are expected to use the product.

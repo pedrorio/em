@@ -2,114 +2,44 @@
 
 A set of documents I have used as a CTO, EM and TL.
 
-Last reviewed: 2026-10-26
-
-Licence: [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0). Copyright Pedro Araujo.
-
-Internal working notes: [knowledge/](knowledge/README.md).
-
-Examples: [examples/](examples/README.md).
-
-Change proposals: [openspec/](openspec/project.md).
-
 ## Engineering
 
-- [Architecture decision record](public/engineering/adr.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Architecture document](public/engineering/architecture-doc.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [On call roster](public/engineering/on_call.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [RFC](public/engineering/rfc.md)
-
-  TODO(Pedro): when I use this and what problem it solves
+- [adr.md](public/engineering/adr.md)
+- [architecture-doc.md](public/engineering/architecture-doc.md)
+- [on_call.md](public/engineering/on_call.md)
+- [rfc.md](public/engineering/rfc.md)
 
 ## Organisation
 
-- [Career ladder](public/organisation/career-ladder.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Career skills](public/organisation/career-skills.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Engineering group](public/organisation/engineering-group.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Program increment](public/organisation/program-increment.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Reorg](public/organisation/reorg.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Vision](public/organisation/vision.md)
-
-  TODO(Pedro): when I use this and what problem it solves
+- [career-ladder.md](public/organisation/career-ladder.md)
+- [career-skills.md](public/organisation/career-skills.md)
+- [engineering-group.md](public/organisation/engineering-group.md)
+- [program-increment.md](public/organisation/program-increment.md)
+- [reorg.md](public/organisation/reorg.md)
+- [vision.md](public/organisation/vision.md)
 
 ## People
 
-- [1:1](public/people/1_1.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Feedback](public/people/feedback.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Goals](public/people/goals.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Learning and development](public/people/learning_and_development.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Performance review](public/people/performance_review.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Pulse](public/people/pulse.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Personal readme](public/people/readme.md)
-
-  TODO(Pedro): when I use this and what problem it solves
+- [1_1.md](public/people/1_1.md)
+- [feedback.md](public/people/feedback.md)
+- [goals.md](public/people/goals.md)
+- [learning_and_development.md](public/people/learning_and_development.md)
+- [performance_review.md](public/people/performance_review.md)
+- [pulse.md](public/people/pulse.md)
+- [readme.md](public/people/readme.md)
 
 ## Product
 
-- [MRD](public/product/MRD.md)
-
-  TODO(Pedro): when I use this and what problem it solves
+- [MRD.md](public/product/MRD.md)
 
 ## Project
 
-- [Goals, signals, metrics](public/project/goals_signals_metrics.md)
+- [goals_signals_metrics.md](public/project/goals_signals_metrics.md)
+- [people_scope_timeline_quality.md](public/project/people_scope_timeline_quality.md)
+- [post-mortem.md](public/project/post-mortem.md)
+- [retro.md](public/project/retro.md)
+- [standups.md](public/project/standups.md)
 
-  TODO(Pedro): when I use this and what problem it solves
+[CC BY 4.0](LICENSE). Copyright Pedro Araujo.
 
-- [People, scope, timeline, quality](public/project/people_scope_timeline_quality.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Post-mortem](public/project/post-mortem.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Retro](public/project/retro.md)
-
-  TODO(Pedro): when I use this and what problem it solves
-
-- [Standups](public/project/standups.md)
-
-  TODO(Pedro): when I use this and what problem it solves
+[knowledge/README.md](knowledge/README.md)

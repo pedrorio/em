@@ -1,29 +1,5 @@
 # On Call Roster
 
-## Purpose
-
-TODO(Pedro):
-
-## When to use
-
-TODO(Pedro):
-
-## Inputs
-
-TODO(Pedro):
-
-## Output
-
-TODO(Pedro):
-
-## Common pitfalls
-
-TODO(Pedro):
-
-## Sources
-
-TODO(Pedro):
-
 ## Incident Manager
 > One IC3 or EM3 with previous incident manager experience.
 > 

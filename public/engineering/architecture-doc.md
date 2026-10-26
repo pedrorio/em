@@ -1,30 +1,6 @@
 # Architecture document
 
-C4 and arc42-style architecture description. This file is not an architecture decision record. Decision records use [adr.md](adr.md).
-
-## Purpose
-
-TODO(Pedro):
-
-## When to use
-
-TODO(Pedro):
-
-## Inputs
-
-TODO(Pedro):
-
-## Output
-
-TODO(Pedro):
-
-## Common pitfalls
-
-TODO(Pedro):
-
-## Sources
-
-TODO(Pedro):
+C4 / arc42. Decisions: [adr.md](adr.md).
 
 | **Owner**              |                                                                     |
 |:-----------------------|---------------------------------------------------------------------|

@@ -1,29 +1,5 @@
 # Vision
 
-## Purpose
-
-TODO(Pedro):
-
-## When to use
-
-TODO(Pedro):
-
-## Inputs
-
-TODO(Pedro):
-
-## Output
-
-TODO(Pedro):
-
-## Common pitfalls
-
-TODO(Pedro):
-
-## Sources
-
-TODO(Pedro):
-
 ## Vision statement
 1, 2 sentence aspirational summary
 

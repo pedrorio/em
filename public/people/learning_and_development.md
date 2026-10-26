@@ -1,29 +1,5 @@
 # Learning and development
 
-## Purpose
-
-TODO(Pedro):
-
-## When to use
-
-TODO(Pedro):
-
-## Inputs
-
-TODO(Pedro):
-
-## Output
-
-TODO(Pedro):
-
-## Common pitfalls
-
-TODO(Pedro):
-
-## Sources
-
-TODO(Pedro):
-
 ## Personal objectives
 - 1 to 5 year LT goals to keep in mind
 - 3 to 6 months ST goals to focus on
