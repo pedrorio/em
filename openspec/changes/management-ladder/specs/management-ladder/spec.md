@@ -13,12 +13,16 @@ The career ladder SHALL list M1, M2, M2 (SEM), M3 (Director), M4 (VPE), and M5 (
 - **WHEN** a reader opens the management track
 - **THEN** the levels appear in that order and the top level is M5 (CTO)
 
-### Requirement: On-call roster uses M2 (SEM)
-The on-call roster SHALL name M2 (SEM) where it now says EM3. It MUST NOT keep EM3 as a level name.
+### Requirement: M1 is paired with IC4
+Career skills SHALL show M1 as the management pair of IC4. The on-call roster SHALL say IC4 or M1 where it now says IC3 or EM3. It MUST NOT pair M1 with IC3, and it MUST NOT keep EM3.
 
 #### Scenario: Reader checks who can be incident manager
 - **WHEN** a reader opens the on-call roster
-- **THEN** the management seat is M2 (SEM), still paired with IC3, and EM3 is not used
+- **THEN** the incident manager rule and the on-call engineer rule say IC4 or M1
+
+#### Scenario: Reader compares M1 with the IC levels
+- **WHEN** a reader reads the career skills table
+- **THEN** M1 is paired with IC4 and not with IC3
 
 ### Requirement: IC5 is not a copy of IC4
 Career skills SHALL give IC5 a higher bar than IC4 on system design and on scope beyond one team. The two rows MUST NOT match in every column.
