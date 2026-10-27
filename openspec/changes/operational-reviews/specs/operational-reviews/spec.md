@@ -7,7 +7,7 @@ Provides one operational review template with a team level and a domain level, e
 ## ADDED Requirements
 
 ### Requirement: Review has team and domain levels
-`public/organisation/operational-review.md` SHALL have a team section and a domain section. Each section SHALL cover goals, metrics, and KPIs, and SHALL point at the goals, signals, and metrics template. The readme SHALL link it as "Operational review".
+`public/organisation/operational_review.md` SHALL have a team section and a domain section. Each section SHALL cover goals, metrics, and KPIs, and SHALL point at the goals, signals, and metrics template. The readme SHALL link it as "Operational review".
 
 #### Scenario: Reader prepares a domain review
 - **WHEN** a reader opens the domain section

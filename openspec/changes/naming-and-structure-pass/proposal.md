@@ -9,7 +9,7 @@ One system document is called ADR, ARD, and architecture document. `MRD.md` is t
 - Rename `public/product/MRD.md` to `public/product/mrd.md` and update the readme target. Leave the section body for `product-framework`.
 - In `knowledge/organisation/discovery.md`, replace "ADR (system documentation)" with "architecture document", and name the rungs once: market (`mrd`), business model (`brd`), feature (`prd`). Do not add those files here.
 - In `public/organisation/engineering-group.md`, replace the ARD column and the ARD workflow bullet with "architecture document".
-- New public templates use lowercase hyphenated names, including short acronyms, as `rfc.md` does. Do not rename existing snake_case files.
+- New public templates use snake_case. A short acronym with no extra word stays lowercase, as `rfc.md` and `mrd.md`. Do not rename existing files.
 - Leave "Architectural Review" in `program-increment.md`. That is a meeting, not the architecture document.
 - Do not add links from `knowledge/` notes to `public/` templates. That split stays.
 

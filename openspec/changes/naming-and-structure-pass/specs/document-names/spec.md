@@ -21,7 +21,11 @@ The discovery note SHALL name three rungs in order: market (`mrd`), business mod
 - **THEN** the market rung points at `mrd`, the business-model rung points at `brd`, and the feature rung points at `prd`
 
 ### Requirement: New template file names
-A new public template MUST use a lowercase hyphenated file name. Existing snake_case file names MUST stay as they are. The market file MUST be `public/product/mrd.md`, and the readme link target MUST match that path.
+A new public template MUST use a snake_case file name. An existing file name MUST stay as it is. A short acronym with no extra word stays lowercase, as `mrd.md` and `rfc.md`. The market file MUST be `public/product/mrd.md`, and the readme link target MUST match that path.
+
+#### Scenario: A new multi-word template is added
+- **WHEN** a later change adds a template whose name has more than one word
+- **THEN** the file name uses underscores and does not use hyphens
 
 #### Scenario: Market file is linked from the readme
 - **WHEN** a reader follows the market requirements link in the readme

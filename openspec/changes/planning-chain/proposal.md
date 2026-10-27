@@ -6,8 +6,8 @@ The program increment asks for a Business Review and then lists ideas. There is 
 
 ## What Changes
 
-- Add `public/organisation/annual-plan.md` for the year and the budget.
-- Add `public/organisation/domain-business-case.md` for one domain: discovery, opportunities, levers, and the ask. State that it is not `brd.md`.
+- Add `public/organisation/annual_plan.md` for the year and the budget.
+- Add `public/organisation/domain_business_case.md` for one domain: discovery, opportunities, levers, and the ask. State that it is not `brd.md`.
 - Treat `program-increment.md` as the quarterly plan. Its inputs are the annual plan and the domain business cases. Keep the existing Roadmaps bullet as the roadmap output. Do not add a roadmap template.
 - Add `public/project/initiative.md` with kind (product, tech, or quality), effort, and ROI.
 - Link the new files from the readme with readable titles. Do not rename `program-increment.md`.
@@ -24,7 +24,7 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files added: `public/organisation/annual-plan.md`, `public/organisation/domain-business-case.md`, `public/project/initiative.md`. Files touched: `public/organisation/program-increment.md`, `readme.md`.
+Files added: `public/organisation/annual_plan.md`, `public/organisation/domain_business_case.md`, `public/project/initiative.md`. Files touched: `public/organisation/program-increment.md`, `readme.md`.
 
 Depends on `naming-and-structure-pass`. Depends on `product-framework` so the domain business case is not confused with `brd.md`.
 

@@ -2,12 +2,12 @@
 
 ## Purpose
 
-States the working interface for an EM with ICs, for EMs with each other, and for a Senior EM with EMs and above.
+States how M1 and M2 work with ICs, how managers work with each other, and how an M2 (SEM) works above that.
 
 ## ADDED Requirements
 
 ### Requirement: Three management interfaces
-`public/organisation/management-interfaces.md` SHALL describe how an EM works with ICs, how EMs work with each other, and how a Senior EM works with EMs and above. The readme SHALL link it as "Management interfaces".
+`public/organisation/management_interfaces.md` SHALL describe how M1 and M2 work with ICs, how managers work with each other, and how an M2 (SEM) works with other managers and with M3 (Director), M4 (VPE), and M5 (CTO). The readme SHALL link it as "Management interfaces".
 
 #### Scenario: Reader opens the interfaces
 - **WHEN** a reader follows the Management interfaces link

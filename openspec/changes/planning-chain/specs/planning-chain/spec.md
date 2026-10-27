@@ -7,14 +7,14 @@ Orders annual planning, domain funding, the quarterly program increment, and the
 ## ADDED Requirements
 
 ### Requirement: Annual plan covers the year and the budget
-`public/organisation/annual-plan.md` SHALL cover the year's plan and the budget. The readme SHALL link it as "Annual plan".
+`public/organisation/annual_plan.md` SHALL cover the year's plan and the budget. The readme SHALL link it as "Annual plan".
 
 #### Scenario: Reader opens the annual plan
 - **WHEN** a reader opens the annual plan
 - **THEN** it has a plan for the year and a budget
 
 ### Requirement: Domain business case is not the product business case
-`public/organisation/domain-business-case.md` SHALL cover discovery, opportunities, levers, and the funding ask for one domain. It MUST say it is not the product business case in `brd.md`. The readme SHALL link it as "Domain business case".
+`public/organisation/domain_business_case.md` SHALL cover discovery, opportunities, levers, and the funding ask for one domain. It MUST say it is not the product business case in `brd.md`. The readme SHALL link it as "Domain business case".
 
 #### Scenario: Reader compares the two business cases
 - **WHEN** a reader opens the domain business case

@@ -35,7 +35,7 @@ The engineering group ownership table, the engineering group discovery workflow,
 - **THEN** the link target is `public/product/prd.md`
 
 ### Requirement: Test plan connects the PRD to an RFC
-`public/product/test-plan.md` SHALL name the PRD and the RFC it covers. The readme SHALL link it as "Test plan".
+`public/product/test_plan.md` SHALL name the PRD and the RFC it covers. The readme SHALL link it as "Test plan".
 
 #### Scenario: Reader checks feature acceptance
 - **WHEN** a reader opens the test plan

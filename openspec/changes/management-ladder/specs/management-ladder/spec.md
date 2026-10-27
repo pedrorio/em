@@ -2,16 +2,23 @@
 
 ## Purpose
 
-Defines the management track the on-call roster already assumes, and separates the top two IC levels that are currently the same row.
+Defines the management track from M1 to CTO, and separates the top two IC levels that are currently the same row.
 
 ## ADDED Requirements
 
-### Requirement: Management track lists five levels
-The career ladder SHALL list EM1, EM2, EM3, Senior EM, and Director, in that order, on the management track. EM3 MUST be the level an incident manager can hold. The ladder MUST NOT add Head of Engineering or CTO in this change.
+### Requirement: Management track lists the M levels
+The career ladder SHALL list M1, M2, M2 (SEM), M3 (Director), M4 (VPE), and M5 (CTO), in that order. M2 (SEM) is the senior manager title. M3 is Director. M4 is VPE. M5 is CTO.
 
-#### Scenario: Reader finds EM3
-- **WHEN** a reader looks up the EM3 named in the on-call roster
-- **THEN** the career ladder lists EM3 between EM2 and Senior EM, and Director is the top level shown
+#### Scenario: Reader reads the management track
+- **WHEN** a reader opens the management track
+- **THEN** the levels appear in that order and the top level is M5 (CTO)
+
+### Requirement: On-call roster uses M2 (SEM)
+The on-call roster SHALL name M2 (SEM) where it now says EM3. It MUST NOT keep EM3 as a level name.
+
+#### Scenario: Reader checks who can be incident manager
+- **WHEN** a reader opens the on-call roster
+- **THEN** the management seat is M2 (SEM), still paired with IC3, and EM3 is not used
 
 ### Requirement: IC5 is not a copy of IC4
 Career skills SHALL give IC5 a higher bar than IC4 on system design and on scope beyond one team. The two rows MUST NOT match in every column.

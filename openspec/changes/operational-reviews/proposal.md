@@ -6,7 +6,7 @@
 
 ## What Changes
 
-- Add `public/organisation/operational-review.md` with a team section and a domain section.
+- Add `public/organisation/operational_review.md` with a team section and a domain section.
 - Each section covers goals, metrics, and KPIs, and points at `goals_signals_metrics.md` for the shape.
 - Individual goals stay in `people/goals.md`. This change does not edit that file.
 - Add one pointer from `knowledge/project/time.md` to the new template.
@@ -24,7 +24,7 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files added: `public/organisation/operational-review.md`. Files touched: `readme.md`, `knowledge/project/time.md`.
+Files added: `public/organisation/operational_review.md`. Files touched: `readme.md`, `knowledge/project/time.md`.
 
 Depends on `domain-ownership-and-capacity` for the domain being reviewed. The metric shape is the existing `goals_signals_metrics.md`.
 
