@@ -7,11 +7,11 @@ Defines the management track from M1 to CTO, and separates the top two IC levels
 ## ADDED Requirements
 
 ### Requirement: Management track lists the M levels
-The career ladder SHALL list M1, M2, M2 (SEM), M3 (Director), M4 (VPE), and M5 (CTO), in that order. M2 (SEM) is the senior manager title. M3 is Director. M4 is VPE. M5 is CTO.
+The career ladder SHALL list exactly five management levels: M1, M2, M3 (Director), M4 (VPE), and M5 (CTO), in that order. It MUST NOT add a separate Senior EM level. M3 is Director. M4 is VPE. M5 is CTO.
 
 #### Scenario: Reader reads the management track
 - **WHEN** a reader opens the management track
-- **THEN** the levels appear in that order and the top level is M5 (CTO)
+- **THEN** the five levels appear in that order, the top level is M5 (CTO), and Senior EM is not a level
 
 ### Requirement: M1 is paired with IC4
 Career skills SHALL show M1 as the management pair of IC4. The on-call roster SHALL say IC4 or M1 where it now says IC3 or EM3. It MUST NOT pair M1 with IC3, and it MUST NOT keep EM3.

@@ -6,7 +6,7 @@
 
 ## What Changes
 
-- On the career ladder and on career skills, list the management track as M1, M2, M2 (SEM), M3 (Director), M4 (VPE), and M5 (CTO), in that order.
+- On the career ladder and on career skills, list exactly five management levels: M1, M2, M3 (Director), M4 (VPE), and M5 (CTO), in that order. Senior EM is not its own level.
 - Make IC5 differ from IC4 on system design and on scope past a single team.
 - Pair M1 with IC4 on the career skills table and on the on-call roster. Where `on_call.md` says IC3 or EM3, it says IC4 or M1.
 

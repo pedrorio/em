@@ -2,7 +2,7 @@
 
 ## Why
 
-The 1:1 and feedback templates exist. Nothing says how M1 and M2 work with ICs, how managers work with each other, or how an M2 (SEM) works with managers and with Director, VPE, and CTO.
+The 1:1 and feedback templates exist. Nothing says how M1 and M2 work with ICs, how managers work with each other, or how M3 (Director), M4 (VPE), and M5 (CTO) work with the managers below them.
 
 ## What Changes
 
@@ -15,7 +15,7 @@ The 1:1 and feedback templates exist. Nothing says how M1 and M2 work with ICs, 
 
 ### New Capabilities
 
-- `management-interfaces`: How M1 and M2 work with ICs, how managers work with each other, and how M2 (SEM) works with Director, VPE, and CTO.
+- `management-interfaces`: How M1 and M2 work with ICs, how managers work with each other, and how M3 (Director), M4 (VPE), and M5 (CTO) work with the managers below them.
 
 ### Modified Capabilities
 
@@ -25,6 +25,6 @@ None. `openspec/specs/` is empty.
 
 Files added: `public/organisation/management_interfaces.md`. Files touched: `readme.md`.
 
-Depends on `management-ladder` for M1, M2, M2 (SEM), M3 (Director), M4 (VPE), and M5 (CTO).
+Depends on `management-ladder` for M1, M2, M3 (Director), M4 (VPE), and M5 (CTO).
 
 Links: `1_1.md` and `feedback.md` stay the conversation templates. PM and Design approval stays in the discovery note and in `product-framework`.
