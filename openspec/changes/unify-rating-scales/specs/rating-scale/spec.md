@@ -2,20 +2,20 @@
 
 ## Purpose
 
-Makes skill ratings in the performance review use the same four points already printed on the career skills and learning templates.
+Replaces the seven performance ratings with four expectation ratings, and leaves the skill scale unchanged.
 
 ## ADDED Requirements
 
-### Requirement: Performance review uses the four-point scale
-The performance review template SHALL rate a skill as Untrained, Basic, Intermediate, or Advanced. It MUST NOT list a second scale.
+### Requirement: Performance review uses expectation ratings
+The performance review template SHALL rate performance as Unable to Meet Expectations, Meets Expectations, Often Exceeds, or Redefines Expectations. It MUST NOT list a second performance scale.
 
-#### Scenario: Reviewer rates a skill
+#### Scenario: Reviewer rates performance
 - **WHEN** a reviewer fills the performance review gap table
-- **THEN** the only ratings shown are Untrained, Basic, Intermediate, and Advanced
+- **THEN** the only ratings shown are those four expectation ratings
 
-### Requirement: Skill templates keep the same four points
-Career skills and learning and development SHALL keep Untrained, Basic, Intermediate, and Advanced as their scale.
+### Requirement: Skill templates keep their own scale
+Career skills and learning and development SHALL keep Untrained, Basic, Intermediate, and Advanced. They MUST NOT replace that scale with the expectation ratings.
 
-#### Scenario: Reader compares the people templates
-- **WHEN** a reader compares the performance review with career skills and with learning and development
-- **THEN** all three show the same four ratings
+#### Scenario: Reader compares skill and performance ratings
+- **WHEN** a reader opens career skills and the performance review
+- **THEN** career skills still shows Untrained, Basic, Intermediate, and Advanced, and the performance review shows the expectation ratings

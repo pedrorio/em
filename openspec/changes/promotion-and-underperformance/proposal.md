@@ -8,7 +8,7 @@ After hiring, the people templates jump to a goals stub. There is no promotion c
 
 - Add `public/people/promotion.md` for a case to the next ladder level.
 - Add `public/people/underperformance.md` for the gap, the support, and the next review date.
-- Both cite a current ladder level and the four-point scale. They point at `goals.md` and `performance_review.md` and do not rewrite them.
+- Both cite a current ladder level and the expectation ratings from `unify-rating-scales`. They point at `goals.md` and `performance_review.md` and do not rewrite them.
 - Link both from the readme under People, as "Promotion" and "Underperformance".
 
 ## Capabilities
