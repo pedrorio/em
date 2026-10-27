@@ -28,4 +28,4 @@ Files added: `public/organisation/engineering_strategy.md`. Files touched: `read
 
 Depends on `naming-and-structure-pass` only for the architecture document name.
 
-Links: `planning-chain` owns the annual budget, the roadmap, and the domain case. This one-pager states the constraints those plans take. `vision.md` is the domain, business, or platform vision and is not rewritten.
+Links: `planning-chain` owns the annual budget, the roadmap, and the business case. This one-pager states the constraints those plans take. `vision.md` is the domain, business, or platform vision and is not rewritten.

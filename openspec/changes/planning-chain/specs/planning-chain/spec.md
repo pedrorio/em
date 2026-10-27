@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Orders the annual plan, the domain and staffing case, the roadmap, and the initiatives those plans commit to.
+Orders the annual plan, the one business case template, the roadmap, and the initiatives those plans commit to.
 
 ## ADDED Requirements
 
@@ -13,12 +13,26 @@ Orders the annual plan, the domain and staffing case, the roadmap, and the initi
 - **WHEN** a reader opens the annual plan
 - **THEN** it has a plan for the year and a budget
 
-### Requirement: Domain business case focuses on the domain and staffing
-`public/organisation/domain_business_case.md` SHALL cover one domain and its staffing, including discovery, opportunities, levers, and the ask. It is a different lens from the user-and-business case in `brd.md`. The two MAY be one case. When the domain is new and the product or platform already exists, they MUST be separate documents. The readme SHALL link it as "Domain business case".
+### Requirement: One business case template
+`public/organisation/business_case.md` SHALL be the only business case template. It SHALL require a type of new business, new product, new business model, new market expansion, new platform, or new domain. The readme SHALL link it as "Business case". This change MUST NOT add `brd.md` or `domain_business_case.md`.
 
-#### Scenario: New domain on an existing platform
-- **WHEN** the domain is new and the product or platform already exists
-- **THEN** the domain business case stays separate from `public/product/brd.md`
+#### Scenario: Reader starts a case
+- **WHEN** a reader opens the business case template
+- **THEN** it asks for one of those six types and no other business case file exists
+
+### Requirement: Every case fills the same core
+The template SHALL ask for the customer or user, the value, the cost, the staffing change, the expected return, the risks, and the decision asked for. Each case SHALL be one ask against a line in the annual plan.
+
+#### Scenario: Reader fills a case
+- **WHEN** a reader completes a business case of any type
+- **THEN** those seven core fields are filled and the case names one line in the annual plan
+
+### Requirement: Each type adds only its own section
+The template SHALL have one short section per type. New business adds the business being proposed. New product adds the product. New business model adds the model change. New market expansion adds the target market. New platform adds the consumers and the adoption. New domain adds staffing and ownership.
+
+#### Scenario: Reader opens a new domain case
+- **WHEN** the type is new domain
+- **THEN** the domain section adds staffing and ownership and does not repeat the other types
 
 ### Requirement: Roadmap is its own template
 `public/organisation/roadmap.md` SHALL name the domain, product, or platform it covers, the horizon, what is on it, and what is not on it. The engineering group status line, the program increment Roadmaps line, and the pulse roadmap line SHALL point at it. This change MUST NOT remodel `program_increment.md`. The readme SHALL link it as "Roadmap".

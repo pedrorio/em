@@ -14,11 +14,11 @@ Discovery notes and the engineering group template SHALL call the C4 document th
 - **THEN** the system document is named architecture document, and ADR and ARD are not used for it
 
 ### Requirement: Product rungs are named once
-The discovery note SHALL name three rungs in order: market (`mrd`), business model (`brd`), and feature (`prd`).
+The discovery note SHALL name three rungs in order: market (`mrd`), business model (`business_case`), and feature (`prd`).
 
 #### Scenario: Reader follows discovery
 - **WHEN** a reader reads the market and product sections of the discovery note
-- **THEN** the market rung points at `mrd`, the business-model rung points at `brd`, and the feature rung points at `prd`
+- **THEN** the market rung points at `mrd`, the business-model rung points at `business_case`, and the feature rung points at `prd`
 
 ### Requirement: Template file names are snake_case
 A public template file name MUST be snake_case. Each existing hyphenated public template MUST be renamed to snake_case, and the readme link MUST follow. This rename MUST NOT change the file body. A short acronym with no extra word stays lowercase, as `mrd.md` and `rfc.md`. The market file MUST be `public/product/mrd.md`.
