@@ -3,7 +3,7 @@
 ## 1. Chain
 
 - [ ] 1.1 Narrow `public/product/mrd.md` to segments and expansion, and point features and unit economics at the other two templates. Verify the file no longer specifies the feature list.
-- [ ] 1.2 Add `public/product/brd.md` titled Business case, with unit economics, value proposition, and a line that it is not a domain business case. Verify that line is present.
+- [ ] 1.2 Add `public/product/brd.md` titled Business case, focused on the user and the business, with unit economics and value proposition. Verify it says the two cases stay separate when the domain is new and the product or platform already exists.
 - [ ] 1.3 Add `public/product/prd.md` for one segment, its needs, and its features, with pointers to the market template and the business case. Verify those pointers resolve.
 - [ ] 1.4 Add `public/product/test_plan.md` naming one PRD and one RFC. Verify both pointers resolve.
 - [ ] 1.5 Point the PRD mentions in `engineering-group.md`, `standups.md`, and `knowledge/organisation/discovery.md` at `prd.md`. Verify each mention is a link.

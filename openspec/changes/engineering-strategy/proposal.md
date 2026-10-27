@@ -7,7 +7,7 @@ Nothing sits between the vision and the program increment. A reader cannot see t
 ## What Changes
 
 - Add `public/organisation/engineering_strategy.md` as a one-pager with those four sections.
-- It takes `vision.md` as the engineering organisation vision and constrains the program increment. It does not restate either document, and it does not add a company vision.
+- It takes `vision.md` as the vision for a domain, a business, or a platform. It does not restate that vision, and it does not add a company vision. A company vision would say how products, platforms, and domains tie together, and it is a different document.
 - Where it names the system document, it says architecture document.
 - Link it from the readme between Vision and Program increment, as "Engineering strategy".
 - Do not add a roadmap file here.
@@ -28,4 +28,4 @@ Files added: `public/organisation/engineering_strategy.md`. Files touched: `read
 
 Depends on `naming-and-structure-pass` only for the architecture document name.
 
-Links: `planning-chain` owns the annual budget detail and the quarterly plan. This one-pager states the constraints those plans take. `vision.md` is the engineering organisation vision and is not rewritten.
+Links: `planning-chain` owns the annual budget, the roadmap, and the domain case. This one-pager states the constraints those plans take. `vision.md` is the domain, business, or platform vision and is not rewritten.

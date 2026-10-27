@@ -13,12 +13,12 @@ Puts a one-page engineering strategy between the vision and the program incremen
 - **WHEN** a reader moves from Vision to Program increment in the readme
 - **THEN** Engineering strategy sits between them and the template has those four sections
 
-### Requirement: Strategy takes the engineering organisation vision
-The strategy SHALL take `public/organisation/vision.md` as the engineering organisation vision. It MUST NOT add a company vision.
+### Requirement: Strategy takes a domain, business, or platform vision
+The strategy SHALL take `public/organisation/vision.md` as the vision for a domain, a business, or a platform. It MUST NOT treat that file as the company vision, and it MUST NOT add a company vision.
 
 #### Scenario: Reader looks for a company vision
 - **WHEN** a reader opens the engineering strategy
-- **THEN** it points at `vision.md` as the engineering organisation vision and does not add a company vision
+- **THEN** it points at `vision.md` as a domain, business, or platform vision and does not add a company vision
 
 ### Requirement: Strategy uses the architecture document name
 If the strategy names the system document, it SHALL call it the architecture document.

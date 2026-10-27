@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Orders annual planning, domain funding, the quarterly program increment, and the initiatives that increment commits to.
+Orders the annual plan, the domain and staffing case, the roadmap, and the initiatives those plans commit to.
 
 ## ADDED Requirements
 
@@ -13,19 +13,19 @@ Orders annual planning, domain funding, the quarterly program increment, and the
 - **WHEN** a reader opens the annual plan
 - **THEN** it has a plan for the year and a budget
 
-### Requirement: Domain business case is not the product business case
-`public/organisation/domain_business_case.md` SHALL cover discovery, opportunities, levers, and the funding ask for one domain. It MUST say it is not the product business case in `brd.md`. The readme SHALL link it as "Domain business case".
+### Requirement: Domain business case focuses on the domain and staffing
+`public/organisation/domain_business_case.md` SHALL cover one domain and its staffing, including discovery, opportunities, levers, and the ask. It is a different lens from the user-and-business case in `brd.md`. The two MAY be one case. When the domain is new and the product or platform already exists, they MUST be separate documents. The readme SHALL link it as "Domain business case".
 
-#### Scenario: Reader compares the two business cases
-- **WHEN** a reader opens the domain business case
-- **THEN** it is about one domain's funding and it points away from `public/product/brd.md`
+#### Scenario: New domain on an existing platform
+- **WHEN** the domain is new and the product or platform already exists
+- **THEN** the domain business case stays separate from `public/product/brd.md`
 
-### Requirement: Program increment is the quarterly plan
-`program-increment.md` SHALL name the annual plan and the domain business cases as inputs, and SHALL keep Roadmaps as an output. This change MUST NOT add a separate roadmap template and MUST NOT rename the file.
+### Requirement: Roadmap is its own template
+`public/organisation/roadmap.md` SHALL name the domain, product, or platform it covers, the horizon, what is on it, and what is not on it. The engineering group status line, the program increment Roadmaps line, and the pulse roadmap line SHALL point at it. This change MUST NOT remodel `program-increment.md`. The readme SHALL link it as "Roadmap".
 
-#### Scenario: Reader starts a quarter
-- **WHEN** a reader opens the program increment
-- **THEN** the inputs include the annual plan and domain business cases, and roadmaps remain a communication output
+#### Scenario: Reader follows a roadmap mention
+- **WHEN** a reader follows the roadmap mention in the engineering group, the program increment, or the pulse
+- **THEN** the target is `public/organisation/roadmap.md`
 
 ### Requirement: Initiative is sized
 `public/project/initiative.md` SHALL record a kind of product, tech, or quality, plus effort and ROI. The readme SHALL link it as "Initiative".

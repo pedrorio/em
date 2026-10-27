@@ -13,6 +13,13 @@ Records which systems a domain owns, the maintenance load, the team capacity, an
 - **WHEN** a reader opens the domain template
 - **THEN** it shows systems, maintenance load, and current capacity
 
+### Requirement: Staffing stays on the domain business case
+The domain template SHALL point at the domain business case for staffing. It MUST NOT copy that case.
+
+#### Scenario: Reader looks for staffing
+- **WHEN** a reader wants the staffing case for a domain
+- **THEN** the domain template points at the domain business case
+
 ### Requirement: Scaling points at the reorg note
 The domain template SHALL cover scale up and scale down by pointing at the reorg template. It MUST NOT copy the reorg ratios or rollout steps.
 

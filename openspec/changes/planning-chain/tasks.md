@@ -3,7 +3,7 @@
 ## 1. Planning sequence
 
 - [ ] 1.1 Add `public/organisation/annual_plan.md` with the year's plan and the budget. Verify both are headings.
-- [ ] 1.2 Add `public/organisation/domain_business_case.md` with discovery, opportunities, levers, and the ask, plus a line that it is not `brd.md`. Verify that line is present.
-- [ ] 1.3 Update `program-increment.md` so the annual plan and domain business cases are inputs, and keep the Roadmaps bullet. Verify the file name is unchanged and no roadmap file was added.
+- [ ] 1.2 Add `public/organisation/domain_business_case.md` for the domain and its staffing, with discovery, opportunities, levers, and the ask. Verify it says the case stays separate from `brd.md` when the domain is new and the product or platform already exists.
+- [ ] 1.3 Add `public/organisation/roadmap.md` with scope, horizon, what is on it, and what is not. Point the roadmap lines in `engineering-group.md`, `program-increment.md`, and `pulse.md` at it. Verify `program-increment.md` is not otherwise rewritten.
 - [ ] 1.4 Add `public/project/initiative.md` with kind (product, tech, quality), effort, and ROI. Verify those fields exist.
-- [ ] 1.5 Link Annual plan, Domain business case, and Initiative from `readme.md` with readable titles. Verify the hrefs resolve.
+- [ ] 1.5 Link Annual plan, Domain business case, Roadmap, and Initiative from `readme.md` with readable titles. Verify the hrefs resolve.
