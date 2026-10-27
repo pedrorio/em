@@ -18,7 +18,6 @@ One system document is called ADR, ARD, and architecture document. `MRD.md` is t
   - `post-mortem.md` to `post_mortem.md`
 - New public templates use snake_case. A short acronym with no extra word stays lowercase, as `rfc.md` and `mrd.md`.
 - Leave "Architectural Review" in `program_increment.md`. That is a meeting, not the architecture document.
-- Do not add links from `knowledge/` notes to `public/` templates. That split stays.
 
 ## Capabilities
 
