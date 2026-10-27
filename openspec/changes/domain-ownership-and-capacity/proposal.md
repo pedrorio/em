@@ -27,4 +27,4 @@ Files added: `public/organisation/domain.md`. Files touched: `readme.md`.
 
 Depends on `planning-chain` so "domain" matches the domain business case.
 
-Links: `reorg.md` stays the rollout note. `engineering-group.md` stays the product and component tables. Staffing stays on the domain business case in `planning-chain`. `operational-reviews` reviews this domain. It does not define ownership.
+Links: `reorg.md` stays the rollout note. `engineering_group.md` stays the product and component tables. Staffing stays on the domain business case in `planning-chain`. `operational-reviews` reviews this domain. It does not define ownership.

@@ -10,7 +10,7 @@ Discovery already runs market, then feature, then a test plan between the PRD an
 - Add `public/product/brd.md`, titled "Business case". It focuses on the user and the business: unit economics and value proposition. It is not an enterprise IT requirements list. It may be the same case as the domain business case, or a separate one. When the domain is new and the product or platform already exists, the two stay separate.
 - Add `public/product/prd.md` for one segment's needs and the features that serve them. It points at the market segment and the business case.
 - Add `public/product/test_plan.md` tying that PRD to an RFC.
-- Point the PRD mentions in `engineering-group.md`, `standups.md`, and `knowledge/organisation/discovery.md` at `prd.md`.
+- Point the PRD mentions in `engineering_group.md`, `standups.md`, and `knowledge/organisation/discovery.md` at `prd.md`.
 - Link the four from the readme under Product, with readable titles.
 
 ## Capabilities
@@ -25,7 +25,7 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files: `public/product/mrd.md` (narrow), `public/product/brd.md`, `public/product/prd.md`, `public/product/test_plan.md`, `readme.md`, `public/organisation/engineering-group.md`, `public/project/standups.md`, `knowledge/organisation/discovery.md`.
+Files: `public/product/mrd.md` (narrow), `public/product/brd.md`, `public/product/prd.md`, `public/product/test_plan.md`, `readme.md`, `public/organisation/engineering_group.md`, `public/project/standups.md`, `knowledge/organisation/discovery.md`.
 
 Depends on `naming-and-structure-pass` for the `mrd.md` path and the rung names.
 

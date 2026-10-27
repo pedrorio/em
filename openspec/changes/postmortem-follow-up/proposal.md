@@ -6,7 +6,7 @@ The post-mortem has an Action Items heading and no owner, date, or status. Nothi
 
 ## What Changes
 
-- On `public/project/post-mortem.md`, each action item has an owner, a due date, and a status.
+- On `public/project/post_mortem.md`, each action item has an owner, a due date, and a status.
 - Do not edit `retro.md` here. `finish-stub-docs` is where open actions are reviewed.
 - Do not add a second incident template.
 
@@ -22,7 +22,7 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files: `public/project/post-mortem.md`.
+Files: `public/project/post_mortem.md`.
 
 Depends on nothing. Blocks the retrospective part of `finish-stub-docs`.
 

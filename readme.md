@@ -4,16 +4,16 @@ A set of documents I have used as a CTO, EM and TL.
 
 ## Engineering
 
-- [Architecture document](public/engineering/architecture-doc.md)
+- [Architecture document](public/engineering/architecture_doc.md)
 - [On call roster](public/engineering/on_call.md)
 - [Request for comments](public/engineering/rfc.md)
 
 ## Organisation
 
-- [Career ladder](public/organisation/career-ladder.md)
-- [Career skills](public/organisation/career-skills.md)
-- [Engineering group](public/organisation/engineering-group.md)
-- [Program increment](public/organisation/program-increment.md)
+- [Career ladder](public/organisation/career_ladder.md)
+- [Career skills](public/organisation/career_skills.md)
+- [Engineering group](public/organisation/engineering_group.md)
+- [Program increment](public/organisation/program_increment.md)
 - [Reorganisation](public/organisation/reorg.md)
 - [Vision](public/organisation/vision.md)
 
@@ -35,7 +35,7 @@ A set of documents I have used as a CTO, EM and TL.
 
 - [Goals, signals, and metrics](public/project/goals_signals_metrics.md)
 - [People, scope, timeline, and quality](public/project/people_scope_timeline_quality.md)
-- [Post-mortem](public/project/post-mortem.md)
+- [Post-mortem](public/project/post_mortem.md)
 - [Retrospective](public/project/retro.md)
 - [Standups](public/project/standups.md)
 

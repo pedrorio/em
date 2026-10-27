@@ -9,7 +9,7 @@
 - `retro.md`: add the team and the date, keep Went well, To improve, and Action points, and add a place to review open post-mortem actions.
 - `goals.md`: say these are one person's goals. Keep owner, reporter, dates, objective, and key results, and name the ladder dimension.
 - `performance_review.md`: keep self, manager, and perception gap. Keep the four-point scale from `unify-rating-scales`. Name the outcome as a promotion case, an underperformance plan, or no change.
-- Do not edit `program-increment.md`.
+- Do not edit `program_increment.md`.
 
 ## Capabilities
 

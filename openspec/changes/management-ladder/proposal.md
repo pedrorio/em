@@ -22,7 +22,7 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files: `public/organisation/career-ladder.md`, `public/organisation/career-skills.md`, `public/engineering/on_call.md`.
+Files: `public/organisation/career_ladder.md`, `public/organisation/career_skills.md`, `public/engineering/on_call.md`.
 
 Depends on nothing. Blocks `hiring-loop`, `promotion-and-underperformance`, and `management-interfaces`.
 

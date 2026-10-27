@@ -7,7 +7,7 @@ Performance review lists seven ratings. Career skills and learning and developme
 ## What Changes
 
 - Change the performance review gap line to Untrained, Basic, Intermediate, Advanced.
-- Leave `career-skills.md` and `learning_and_development.md` on that four-point scale.
+- Leave `career_skills.md` and `learning_and_development.md` on that four-point scale.
 - Do not use this scale for a hire or no-hire decision. That stays in `hiring-loop`.
 
 ## Capabilities

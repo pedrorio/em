@@ -8,9 +8,9 @@ The program increment asks for a Business Review and then lists ideas. There is 
 
 - Add `public/organisation/annual_plan.md` for the year and the budget.
 - Add `public/organisation/domain_business_case.md` for one domain and its staffing: discovery, opportunities, levers, and the ask. This lens is domain and staffing. `brd.md` is user and business. The two may be one case or two. When the domain is new and the product or platform already exists, they stay separate.
-- Add `public/organisation/roadmap.md`. Point the existing roadmap mentions at it: the engineering group status line, the program increment Roadmaps line, and the pulse roadmap line. Do not remodel `program-increment.md` into the quarterly plan.
+- Add `public/organisation/roadmap.md`. Point the existing roadmap mentions at it: the engineering group status line, the program increment Roadmaps line, and the pulse roadmap line. Do not remodel `program_increment.md` into the quarterly plan.
 - Add `public/project/initiative.md` with kind (product, tech, or quality), effort, and ROI.
-- Link the new files from the readme with readable titles. Do not rename `program-increment.md`.
+- Link the new files from the readme with readable titles. Do not rename `program_increment.md`.
 
 ## Capabilities
 
@@ -24,7 +24,7 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files added: `public/organisation/annual_plan.md`, `public/organisation/domain_business_case.md`, `public/organisation/roadmap.md`, `public/project/initiative.md`. Files touched: `public/organisation/program-increment.md`, `public/organisation/engineering-group.md`, `public/people/pulse.md`, `readme.md`.
+Files added: `public/organisation/annual_plan.md`, `public/organisation/domain_business_case.md`, `public/organisation/roadmap.md`, `public/project/initiative.md`. Files touched: `public/organisation/program_increment.md`, `public/organisation/engineering_group.md`, `public/people/pulse.md`, `readme.md`.
 
 Depends on `naming-and-structure-pass`. Depends on `product-framework` for the user-and-business case in `brd.md`.
 

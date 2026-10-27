@@ -23,8 +23,8 @@ None. `openspec/specs/` is empty.
 
 ## Impact
 
-Files added: `public/people/hiring.md`. Files touched: `readme.md`. `engineering-group.md` is referenced and not rewritten.
+Files added: `public/people/hiring.md`. Files touched: `readme.md`. `engineering_group.md` is referenced and not rewritten.
 
 Depends on `management-ladder` for the level names. Does not depend on `unify-rating-scales`.
 
-Links: the debrief writes into the 7, 21, and 63 day expectations already in `engineering-group.md`.
+Links: the debrief writes into the 7, 21, and 63 day expectations already in `engineering_group.md`.

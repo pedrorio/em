@@ -26,4 +26,4 @@ Files added: `public/engineering/security.md`. Files touched: `readme.md`.
 
 Depends on nothing. Uses the action format from `postmortem-follow-up` when that change has landed. The post-mortem file can be linked before that format exists.
 
-Links: `architecture-doc.md` stays the quality-attribute home. `rfc.md` stays the design home. This template says what the RFC must show. It does not add a security section to the RFC.
+Links: `architecture_doc.md` stays the quality-attribute home. `rfc.md` stays the design home. This template says what the RFC must show. It does not add a security section to the RFC.

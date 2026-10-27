@@ -21,7 +21,7 @@ Orders the annual plan, the domain and staffing case, the roadmap, and the initi
 - **THEN** the domain business case stays separate from `public/product/brd.md`
 
 ### Requirement: Roadmap is its own template
-`public/organisation/roadmap.md` SHALL name the domain, product, or platform it covers, the horizon, what is on it, and what is not on it. The engineering group status line, the program increment Roadmaps line, and the pulse roadmap line SHALL point at it. This change MUST NOT remodel `program-increment.md`. The readme SHALL link it as "Roadmap".
+`public/organisation/roadmap.md` SHALL name the domain, product, or platform it covers, the horizon, what is on it, and what is not on it. The engineering group status line, the program increment Roadmaps line, and the pulse roadmap line SHALL point at it. This change MUST NOT remodel `program_increment.md`. The readme SHALL link it as "Roadmap".
 
 #### Scenario: Reader follows a roadmap mention
 - **WHEN** a reader follows the roadmap mention in the engineering group, the program increment, or the pulse
